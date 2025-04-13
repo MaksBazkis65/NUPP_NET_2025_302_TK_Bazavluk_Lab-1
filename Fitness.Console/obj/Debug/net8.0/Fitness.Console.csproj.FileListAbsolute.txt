@@ -1,0 +1,14 @@
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\bin\Debug\net8.0\Fitness.Console.exe
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\bin\Debug\net8.0\Fitness.Console.deps.json
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\bin\Debug\net8.0\Fitness.Console.runtimeconfig.json
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\bin\Debug\net8.0\Fitness.Console.dll
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\bin\Debug\net8.0\Fitness.Console.pdb
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.AssemblyInfoInputs.cache
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.AssemblyInfo.cs
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.csproj.CoreCompileInputs.cache
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.dll
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\refint\Fitness.Console.dll
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.pdb
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\Fitness.Console.genruntimeconfig.cache
+C:\Users\whyimalive\source\repos\Fitness\Fitness.Console\obj\Debug\net8.0\ref\Fitness.Console.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Console", "Fitness.Console\Fitness.Console.csproj", "{8A02804A-A666-4906-B338-A2AD4C633218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.Common", "Fitness.Common\Fitness.Common.csproj", "{A7B87887-8105-40C4-8D0A-62B9F239DD36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A02804A-A666-4906-B338-A2AD4C633218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A02804A-A666-4906-B338-A2AD4C633218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A02804A-A666-4906-B338-A2AD4C633218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A02804A-A666-4906-B338-A2AD4C633218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B87887-8105-40C4-8D0A-62B9F239DD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B87887-8105-40C4-8D0A-62B9F239DD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B87887-8105-40C4-8D0A-62B9F239DD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B87887-8105-40C4-8D0A-62B9F239DD36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E375A7E-0B52-41A1-BE4E-43A0F90C9F8A}
+	EndGlobalSection
+EndGlobal
